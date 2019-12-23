@@ -28,14 +28,14 @@
    • Vào file glassfish-resources.xml thay đổi trường user và password cho phù hợp với database của mình
     
    =>Tiến hành chạy thử
-2. **Biên dịch bằng dòng lệnh :** (hãy chắc chắn đã cài database và glassfish)
+2. **Biên dịch bằng dòng lệnh :** *hãy chắc chắn đã cài database và glassfish*
 
    - cd c:\
 
-   - cd glashfish5 /* nếu cài bản glashfish 5 */ 
+   - cd glashfish5 > nếu cài bản glashfish 5 
 
    - cd bin /n
 
    - asadmin start-domain domain1
 
-   - asadmin deploy \projectI\dist\projectI.war /* phần trước thêm phần link đặt file projetc */
+   - asadmin deploy \projectI\dist\projectI.war > phần trước thêm phần link đặt file project 
