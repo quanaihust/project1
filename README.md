@@ -1,14 +1,12 @@
 # Project I
 ## Hướng dẫn cài đặt
 
-1 Yêu cầu:
-    •   Java Version 8: https://www.java.com/en/download/
-    
-    •   NetBean 8.2: https://netbeans.org/downloads/8.2/
-    
-        Hoặc eclipse: https://www.eclipse.org/downloads/
+1. Yêu cầu:
+   • Java Version 8: https://www.java.com/en/download/
+   • NetBean 8.2: https://netbeans.org/downloads/8.2/
+     Hoặc eclipse: https://www.eclipse.org/downloads/
         
-        >Còn đối với một số phần mềm như IntelliJ: sẽ bị lỗi thư viện jstl trong khi compile
+        > Còn đối với một số phần mềm như IntelliJ: sẽ bị lỗi thư viện jstl trong khi compile
         
     •	Server glassfish 5.0: https://javaee.github.io/glassfish/download (phiên bản tối thiểu nếu dùng java 8)
     
