@@ -38,4 +38,4 @@
 
    - asadmin start-domain domain1
 
-   - asadmin deploy \projectI\dist\projectI.war > phần trước thêm phần link đặt file project 
+   - asadmin deploy \projectI\dist\projectI.war  > phần trước thêm phần link đặt file project 
