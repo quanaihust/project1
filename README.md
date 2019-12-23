@@ -1,7 +1,8 @@
 # Project I
 ## Hướng dẫn cài đặt
 
-1. **Yêu cầu:
+1. **Yêu cầu:**
+   
    • Java Version 8: https://www.java.com/en/download/
    
    • NetBean 8.2: https://netbeans.org/downloads/8.2/
@@ -27,7 +28,7 @@
    • Vào file glassfish-resources.xml thay đổi trường user và password cho phù hợp với database của mình
     
    =>Tiến hành chạy thử
-2. **Biên dịch bằng dòng lệnh : (hãy chắc chắn đã cài database và glassfish)
+2. **Biên dịch bằng dòng lệnh :** (hãy chắc chắn đã cài database và glassfish)
 
    - cd c:\
 
