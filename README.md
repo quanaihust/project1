@@ -1,5 +1,6 @@
-Project I 
-Hướng dẫn cài đặt
+# Project I
+## Hướng dẫn cài đặt
+
 •	Yêu cầu:
 -	Java Version 8: https://www.java.com/en/download/
 -	NetBean 8.2: https://netbeans.org/downloads/8.2/
@@ -17,7 +18,11 @@ https://o7planning.org/vi/10223/huong-dan-cai-dat-va-cau-hinh-glassfish-web-serv
 =>	Tiến hành chạy thử
 * Biên dịch bằng dòng lệnh : /* hãy chắc chắn đã cài database và glassfish */
 cd c:\
-cd glashfish5 /* nếu cài bản glashfish 5 */
-cd bin
+
+cd glashfish5 /* nếu cài bản glashfish 5 */ 
+
+cd bin /n
+
 asadmin start-domain domain1
+
 asadmin deploy \projectI\dist\projectI.war /* phần trước thêm phần link đặt file projetc */
