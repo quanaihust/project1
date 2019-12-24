@@ -29,7 +29,12 @@
     
    =>Tiến hành chạy thử
 ### 2. **Biên dịch bằng dòng lệnh :** *hãy chắc chắn đã cài database và glassfish*
-
+   * compile and build without IDE
+   - tải và setup apache ant https://ant.apache.org/bindownload.cgi
+   - cmd
+   - ant -f "F:\\netbean project\\projectI" clean dist
+   - ant -f "F:\\netbean project\\projectI" -Dnb.internal.action.name=build -DforceRedeploy=false "-Dbrowser.context=F:\\netbean project\\projectI" dist
+   * khởi chạy 
    - cd c:\
 
    - cd glashfish5 *nếu cài bản glashfish 5* 
